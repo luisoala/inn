@@ -1,0 +1,23 @@
+\begin{thebibliography}{}
+
+\bibitem[Gal and Ghahramani, 2015]{gal_dropout_2015}
+Gal, Y. and Ghahramani, Z. (2015).
+\newblock Dropout as a {Bayesian} {Approximation}: {Representing} {Model}
+  {Uncertainty} in {Deep} {Learning}.
+\newblock {\em arXiv:1506.02142 [cs, stat]}.
+\newblock arXiv: 1506.02142.
+
+\bibitem[Gast and Roth, 2018]{gast_lightweight_2018}
+Gast, J. and Roth, S. (2018).
+\newblock Lightweight {Probabilistic} {Deep} {Networks}.
+\newblock {\em arXiv:1805.11327 [cs, stat]}.
+\newblock arXiv: 1805.11327.
+
+\bibitem[Jin et~al., 2017]{jin_deep_2017}
+Jin, K.~H., McCann, M.~T., Froustey, E., and Unser, M. (2017).
+\newblock Deep {Convolutional} {Neural} {Network} for {Inverse} {Problems} in
+  {Imaging}.
+\newblock {\em IEEE Transactions on Image Processing}, 26(9):4509--4522.
+\newblock read.
+
+\end{thebibliography}
