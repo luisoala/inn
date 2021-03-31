@@ -1,1 +1,0 @@
-Speicherort des Datensatzes muss in Util.py angepasst werden

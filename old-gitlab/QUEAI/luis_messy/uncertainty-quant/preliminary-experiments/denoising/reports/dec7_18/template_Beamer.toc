@@ -1,6 +1,0 @@
-\beamer@endinputifotherversion {3.36pt}
-\select@language {english}
-\beamer@sectionintoc {1}{Probabilistic approaches}{2}{0}{1}
-\beamer@sectionintoc {2}{The task under consideration}{4}{0}{2}
-\beamer@sectionintoc {3}{Architectures}{5}{0}{3}
-\beamer@sectionintoc {4}{Bibliography}{7}{0}{4}
