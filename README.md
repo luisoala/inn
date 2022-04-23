@@ -4,7 +4,7 @@
 This repo hosts code for our project on Interval Neural Networks (INNs) and the detection of deep neural network failure modes in image reconstruction tasks.
 ## A short introduction
 For a short tutorial on this work you can check out the talks we gave at 
-| [IMCL UDL 2020](https://slideslive.com/38930948/detecting-failure-modes-in-image-reconstructions-with-interval-neural-network-uncertainty?ref=speaker-37644-latest) | [ACM CHIL 2020](https://slideslive.com/38931985/detecting-failure-modes-in-image-reconstructions-with-interval-neural-network-uncertainty?ref=speaker-37644-latest) |
+| [ICML UDL 2020](https://slideslive.com/38930948/detecting-failure-modes-in-image-reconstructions-with-interval-neural-network-uncertainty?ref=speaker-37644-latest) | [ACM CHIL 2020](https://slideslive.com/38931985/detecting-failure-modes-in-image-reconstructions-with-interval-neural-network-uncertainty?ref=speaker-37644-latest) |
 | --- | --- |
 | ![IMCL UDL 2020](https://github.com/luisoala/luisoala.github.io/blob/master/assets/img/repos/inn/icml.png) | ![ACM CHIL 2020](https://github.com/luisoala/luisoala.github.io/blob/master/assets/img/repos/inn/acmchil.png) |
 ### Purpose
